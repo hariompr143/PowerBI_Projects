@@ -34,14 +34,13 @@ This Power BI project, **[Adventure Works]**, was developed to analyze and visua
 ![Dashboard Overview](./Screenshots/dashboard-overview.png)
 
 ## Table Columns
-<div align="center">
+<div align="left">
 <table style="width:100%">
 <thead>
 <tr>
 <th style="text-align:center; font-weight: bold; font-size:20px">Columns Name</th>
 <th style="text-align:center; font-weight: bold; font-size:20px">Description of Each Columns</th>
 </tr>
-</thead>
 <table>
     <tr>
         <td>Product ID</td>
@@ -104,6 +103,7 @@ This Power BI project, **[Adventure Works]**, was developed to analyze and visua
         <td>Mode of payment used (e.g., Credit Card, PayPal, Cash).</td>
     </tr>
 </table>
+</thead>
 
 ## 🚀 Getting Started
 
