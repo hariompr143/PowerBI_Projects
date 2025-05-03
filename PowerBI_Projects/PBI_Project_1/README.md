@@ -3,7 +3,7 @@
 
 ## 📊 Project Overview
 
-This Power BI project, **[Adventure Works]**, was developed to analyze and visualize data related to **To perform a comprehensive analysis of a fictional multinational manufacturing company. The goal is to uncover business insights across Sales, Customer Behavior, Product Performance, and Geography through interactive Power BI dashboards.
+This Power BI project, **[Adventure Works]**, was developed to analyze and visualize data related to **To perform a comprehensive analysis of a fictional multinational manufacturing company. The goal is to uncover business insights across Sales, Customer Behavior, Product Performance, and Geography through interactive Power BI dashboards.**
 
 ## ✅ Objectives
 
@@ -120,7 +120,7 @@ This Power BI project, **[Adventure Works]**, was developed to analyze and visua
 ## 👤 Author
 
 **[Your Name]**  
-[LinkedIn](https://linkedin.com/in/hariom2024niper) | [Email](mailto:phariom.niper2024@email.com)
+[LinkedIn](https://linkedin.com/in/phariom2024niper) | [Email](mailto:phariom.niper2024@email.com)
 
 ## 📄 License
 
