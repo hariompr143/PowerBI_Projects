@@ -33,6 +33,78 @@ This Power BI project, **[Adventure Works]**, was developed to analyze and visua
 
 ![Dashboard Overview](./Screenshots/dashboard-overview.png)
 
+## Table Columns
+<div align="center">
+<table style="width:100%">
+<thead>
+<tr>
+<th style="text-align:center; font-weight: bold; font-size:20px">Columns Name</th>
+<th style="text-align:center; font-weight: bold; font-size:20px">Description of Each Columns</th>
+</tr>
+</thead>
+<table>
+    <tr>
+        <td>Product ID</td>
+        <td>Unique identifier for each product.</td>
+    </tr>
+    <tr>
+        <td>Product Category </td>
+        <td>Broad classification of the product (e.g., Electronics, Clothing).</td>
+    </tr>
+    <tr>
+        <td>Product Subcategory</td>
+        <td>More specific classification under the main category.</td>
+    </tr>
+    <tr>
+        <td>Product Name</td>
+        <td>Name or title of the product.</td>
+    </tr>
+    <tr>
+        <td>Product Description</td>
+        <td>Brief details or features of the product.</td>
+    </tr>
+    <tr>
+        <td>Product Price</td>
+        <td>Selling price of the product.</td>
+    </tr>
+    <tr>
+        <td>Product Weight</td>
+        <td>Weight of the product, typically in grams or kilograms.</td>
+    </tr>
+    <tr>
+        <td>Product Size</td>
+        <td>Dimensions or sizing details (e.g., S, M, L or 10x10 cm).</td>
+    </tr>
+    <tr>
+        <td>Order ID</td>
+        <td>Unique identifier for each order.</td>
+    </tr>
+    <tr>
+        <td>Customer ID</td>
+        <td>Unique identifier for each customer.</td>
+    </tr>
+    <tr>
+        <td>Order Date</td>
+        <td>Date when the order was placed.</td>
+    </tr>
+    <tr>
+        <td>Order Status</td>
+        <td>Current status of the order (e.g., Shipped, Delivered, Pending).</td>
+    </tr>
+    <tr>
+        <td>Order Quantity</td>
+        <td>Number of units ordered for a product.</td>
+    </tr>
+    <tr>
+        <td>Order Total</td>
+        <td>Total amount paid for the order.</td>
+    </tr>
+    <tr>
+        <td>Payment Method</td>
+        <td>Mode of payment used (e.g., Credit Card, PayPal, Cash).</td>
+    </tr>
+</table>
+
 ## 🚀 Getting Started
 
 1. Clone the repository or download the `Generate a visualization.pbix` file
